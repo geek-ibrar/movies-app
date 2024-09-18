@@ -28,13 +28,13 @@ In the output, you'll find options to open the app in a
 This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## Requirements:
-[x] Use the OMDB API (http://www.omdbapi.com/) for movie data.
-[x] Create a search input field where users can enter movie titles.
-[x] Implement a debounce function to limit API calls while typing.
-[x] Display search results in a scrollable list, showing movie title, year, and poster image.
-[x] Implement infinite scrolling to load more results as the user scrolls.
-[x] Use Redux to manage the application state, including search results and loading status.
-[x] Create a "Favorites" feature where users can mark movies as favorites and view them in a separate list.
-[x] Implement proper TypeScript typing throughout the application.
-[x] Handle error states and edge cases (e.g., no results, network errors).
-[x] Bonus: Implement a simple unit test for one of the Redux reducers.
+- [x] Use the OMDB API (http://www.omdbapi.com/) for movie data.
+- [x] Create a search input field where users can enter movie titles.
+- [x] Implement a debounce function to limit API calls while typing.
+- [x] Display search results in a scrollable list, showing movie title, year, and poster image.
+- [x] Implement infinite scrolling to load more results as the user scrolls.
+- [x] Use Redux to manage the application state, including search results and loading status.
+- [x] Create a "Favorites" feature where users can mark movies as favorites and view them in a separate list.
+- [x] Implement proper TypeScript typing throughout the application.
+- [x] Handle error states and edge cases (e.g., no results, network errors).
+- [x] Bonus: Implement a simple unit test for one of the Redux reducers.
